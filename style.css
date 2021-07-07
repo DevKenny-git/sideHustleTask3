@@ -1,0 +1,27 @@
+.container {
+	
+	width: 100vw;
+	height:  20vh;
+	
+}
+
+.container form {
+	display:  flex;
+	flex-direction: column;
+	margin:  20px auto ;
+	justify-content: center;
+	align-items: center;
+	border:  2px solid black;
+	border-radius: 5px;
+	width: 30vw;
+	padding: 10px;
+}
+
+.input {
+	display:  flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 5px 5px;
+
+}
